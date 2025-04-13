@@ -6,7 +6,7 @@ const App = () => {
       <nav>
         <ul>
           <li>
-            <Link to="/carto-styling">Carto Styling Link</Link>
+            <Link to="/carto-styling">Carto Styling Link!</Link>
           </li>
         </ul>
       </nav>
